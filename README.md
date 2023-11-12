@@ -1,3 +1,5 @@
+# 更多说明参见这里：https://www.v2ex.com/t/369905#reply0
+
 # getproxy
 
 [![Build Status](https://travis-ci.org/fate0/getproxy.svg?branch=master)](https://travis-ci.org/fate0/getproxy)
